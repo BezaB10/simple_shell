@@ -1,6 +1,5 @@
 #include "shell.h"
 
-
 /**
  * _getenv - prts env to standard output
  *
