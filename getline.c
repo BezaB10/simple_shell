@@ -1,5 +1,4 @@
 #include "shell.h"
-
 void *_realloc(void *ptr, unsigned int old_size, unsigned int new_size);
 void assign_lineptr(char **lineptr, size_t *n, char *buffer, size_t b);
 ssize_t _getline(char **lineptr, size_t *n, FILE *stream);
