@@ -1,5 +1,4 @@
 #include "shell.h"
-
 char *_strchr(char *s, char c);
 int _strspn(char *s, char *accept);
 int _strcmp(char *s1, char *s2);
