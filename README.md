@@ -34,7 +34,7 @@ Release date May 18, 2022
 ## Introduction
 
 ### About
-This repository is for ALX peer project 0x16 C - Simple Shell that we are asked to Write a UNIX command line interpreter and this is a collaboration between Seblemariam Ashenafi and Beza Abera. 
+This repository is for ALX peer project 0x16 C - Simple Shell that we are asked to Write a UNIX command line interpreter and this is a collaboration between Seblemariam Ashenafi and Beza Abera.
 
 ### What is Shell
 A **shell** is a command-line interpreter, it is the computer program that provides a user interface to access the services of the operating system. Depending on the type of interface they use, shells can be of various types, in this case, a shell program of the type **`sh`** ([Bourne Shell](https://en.wikipedia.org/wiki/Bourne_shell)) will be developed. Users typically interact with a shell using a [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator) that is used for entering data into and displaying or printing data from, a computer or a computing system.
