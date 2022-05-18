@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * _values_path - Separate the path in new strings.
  * @arg: Command input of user.
