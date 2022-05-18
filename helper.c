@@ -10,7 +10,8 @@ void variable_replacement(char **args, int *exe_ret);
  * @args: A null-terminated double pointer containing commands/arguments.
  * @front: A double pointer to the beginning of args.
  */
-void free_args(char **args, char **front)
+
+oid free_args(char **args, char **front)
 {
 	size_t i;
 
@@ -66,6 +67,7 @@ char *get_pid(void)
  *
  * Description: Variables are stored in the format VARIABLE=VALUE.
  */
+
 char *get_env_value(char *beginning, int len)
 {
 	char **var_addr;
