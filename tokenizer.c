@@ -1,4 +1,5 @@
 #include "shell.h"
+
 /**
  * tokenize - tokenizes a stirng
  * @lineptr: what the user inputed
